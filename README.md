@@ -9,3 +9,12 @@
 -Jennifer Pérez Desarrollador HTML
 -Luis Sequeira cordinador del repositorio
 -Luis Sequeira JavaScript
+
+##TECNOLOGÍAS UTLILIZADAS 
+-HTML
+-CSS
+-BOOTSTRAP
+-JAVASCRIPT
+-GIT
+-GITHUB
+-GITHUBPASE
