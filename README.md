@@ -4,7 +4,7 @@
 
 **Explorar Tours El Salvadro**
 
-##DERCCRIPCIÓN
+##DESCRIPCIÓN
 
 **-En El Salvador nos podemos encontrar con muchos lugares facinantes... pero  en el momento de decidir a cual sitio visitar, te quedas en blanco por el simpre hecho de no saber si te va a gustar la experiencia y el lugar-** 
 
@@ -12,20 +12,20 @@
 
 ##INTEGRANTES
 
--Nataly López Diseñador CSS/ bootstrap
--Jennifer Pérez Desarrollador HTML
--Luis Sequeira cordinador del repositorio
--Luis Sequeira JavaScript
+- Nataly López Diseñador CSS/ bootstrap
+- Jennifer Pérez Desarrollador HTML
+- Luis Sequeira cordinador del repositorio
+- Luis Sequeira JavaScript
 
 ##TECNOLOGÍAS UTLILIZADAS 
 
--HTML
--CSS
--BOOTSTRAP
--JAVASCRIPT
--GIT
--GITHUB
--GITHUBPASE
+- HTML
+- CSS
+- BOOTSTRAP
+-  JAVASCRIPT
+- GIT
+- GITHUB
+- GITHUBPASE
 
 ##Enlace Publicado
 
