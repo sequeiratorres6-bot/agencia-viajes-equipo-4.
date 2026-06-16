@@ -2,7 +2,7 @@
 
 ##NOMBRE DEL SITIO WEB
 
-**Explorar Tours El Salvadro
+**Explorar Tours El Salvadro**
 
 ##DERCCRIPCIÓN
 
@@ -11,12 +11,14 @@
 **-Por eso "Explorar Tours El Salvador, se encarga de darte una informacion adicional que te puede ayudar en el momento de estar sentado en la sala de estar listos para tomar la desición de donde tomaran sus proximas vacasiones-**
 
 ##INTEGRANTES
+
 -Nataly López Diseñador CSS/ bootstrap
 -Jennifer Pérez Desarrollador HTML
 -Luis Sequeira cordinador del repositorio
 -Luis Sequeira JavaScript
 
 ##TECNOLOGÍAS UTLILIZADAS 
+
 -HTML
 -CSS
 -BOOTSTRAP
